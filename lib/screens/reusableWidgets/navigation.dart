@@ -33,7 +33,7 @@ class _NavigationState extends State<Navigation> {
       body: pages[currentIndex],
       bottomNavigationBar: Container(
         padding: EdgeInsets.all(0),
-        height: height / 11,
+        height: height / 10,
         decoration: BoxDecoration(
           color: Color(0xffFFFFFF),
         ),
