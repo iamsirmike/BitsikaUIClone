@@ -1,7 +1,7 @@
 import 'package:bitsika/screens/home/widgets/action_buttons.dart';
 import 'package:bitsika/screens/home/widgets/activity_header.dart';
 import 'package:bitsika/screens/home/widgets/card_blance.dart';
-import 'package:bitsika/screens/home/widgets/last_week+activity_card.dart';
+import 'package:bitsika/screens/home/widgets/last_week_activity_card.dart';
 import 'package:bitsika/screens/home/widgets/todays_activity_card.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
